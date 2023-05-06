@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b9fbe62a44094542a4e677c534ea9a0c/artifacts
+deleted_time: 1683396046746
+end_time: 1683395763923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9fbe62a44094542a4e677c534ea9a0c
+run_name: grandiose-ox-326
+run_uuid: b9fbe62a44094542a4e677c534ea9a0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683395757260
+status: 4
+tags: []
+user_id: prasad jadhav

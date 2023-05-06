@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98772b5e4b4f489bb383ae05d6df7ade/artifacts
+end_time: 1683396213801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98772b5e4b4f489bb383ae05d6df7ade
+run_name: efficient-croc-360
+run_uuid: 98772b5e4b4f489bb383ae05d6df7ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683396206118
+status: 4
+tags: []
+user_id: prasad jadhav

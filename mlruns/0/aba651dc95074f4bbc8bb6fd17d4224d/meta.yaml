@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aba651dc95074f4bbc8bb6fd17d4224d/artifacts
+deleted_time: 1683396046746
+end_time: 1683395627622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aba651dc95074f4bbc8bb6fd17d4224d
+run_name: stylish-sheep-143
+run_uuid: aba651dc95074f4bbc8bb6fd17d4224d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683395620507
+status: 4
+tags: []
+user_id: prasad jadhav

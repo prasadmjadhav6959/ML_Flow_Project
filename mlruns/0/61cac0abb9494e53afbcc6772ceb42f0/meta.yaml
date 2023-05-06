@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/61cac0abb9494e53afbcc6772ceb42f0/artifacts
+deleted_time: 1683396046746
+end_time: 1683395936798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 61cac0abb9494e53afbcc6772ceb42f0
+run_name: righteous-bear-694
+run_uuid: 61cac0abb9494e53afbcc6772ceb42f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683395928520
+status: 4
+tags: []
+user_id: prasad jadhav
